@@ -17,3 +17,7 @@
   <img align="center" alt="Portas-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="Portas-Akamaru" src="https://pa1.narvii.com/6350/f9255c242a2bec46d17ced4cc8e1e0f981ee767f_hq.gif" width="160" height="100">
 </div>
+
+##
+ 
+ 
