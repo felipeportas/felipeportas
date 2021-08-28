@@ -1,7 +1,7 @@
 ### Hello Peter 🕶️
 
 - 🏃‍♂️ Transição Direito -> Programação
-- 📚 Estudando JavaScript
+- 📚 Estudando JavaScript e Python
 - 📫 Contato: felipeportas@hotmail.com
 
  <div>
