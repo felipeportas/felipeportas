@@ -1,5 +1,5 @@
 ### Hello Peter 🕶️
-<img align="right" alt="Hello Peter" src="https://64.media.tumblr.com/ca1dbff8472d7117ed2f0e856257c7a6/40ec82d5161fe1c7-59/s540x810/82c9122cfcd2b12076c444796c5326d95b24b83d.gifv" width="160" height="100">
+<img align="right" alt="Hello Peter" src="https://64.media.tumblr.com/ca1dbff8472d7117ed2f0e856257c7a6/40ec82d5161fe1c7-59/s540x810/82c9122cfcd2b12076c444796c5326d95b24b83d.gifv" width="240" height="180">
 
 - 🏃‍♂️ Transição Direito -> Programação
 - 📚 Estudando JavaScript e Python
