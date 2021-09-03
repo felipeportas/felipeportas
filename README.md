@@ -1,5 +1,6 @@
 ### Hello Peter 🕶️
-<img align="right" alt="Hello Peter" src="https://64.media.tumblr.com/ca1dbff8472d7117ed2f0e856257c7a6/40ec82d5161fe1c7-59/s540x810/82c9122cfcd2b12076c444796c5326d95b24b83d.gifv" width="250" height="100">
+
+<img align="right" alt="Hello Peter" src="https://64.media.tumblr.com/ca1dbff8472d7117ed2f0e856257c7a6/40ec82d5161fe1c7-59/s540x810/82c9122cfcd2b12076c444796c5326d95b24b83d.gifv" width="200" height="100">
 
 - 🏃‍♂️ Transição Direito -> Programação
 - 📚 Estudando JavaScript e Python
@@ -10,7 +11,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipeportas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeportas&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<div style="display: inline_block"><br>
+<div style="display:inline_block"><br>
   <img align="center" alt="Portas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Portas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Portas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
